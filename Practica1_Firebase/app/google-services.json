@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539000595965",
+    "project_id": "primerapractica-firebase",
+    "storage_bucket": "primerapractica-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539000595965:android:54c7043b7e1768c2f22594",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDYutEJZaXVwHL8MgBBc-IWD1JpX35BV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539000595965:android:8594161a5ebed70bf22594",
+        "android_client_info": {
+          "package_name": "com.example.primerapractica_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDYutEJZaXVwHL8MgBBc-IWD1JpX35BV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
